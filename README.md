@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=750&lines=I+teach+machines+to+grow+diamonds.;I+teach+machines+to+read+research+papers.;I+teach+machines+to+match+orders+in+microseconds."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7B61FF&center=true&vCenter=true&width=750&lines=I+teach+machines+to+grow+diamonds.;I+teach+machines+to+read+research+papers.;I+teach+machines+to+match+orders+in+microseconds."
     alt="Typing SVG"
   />
 </p>
