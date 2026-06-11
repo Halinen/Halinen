@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Elena Luo 👋
+# Hi, I'm Elena 👋
 
 **I teach machines to grow diamonds, read research papers, and match orders in microseconds.**
 
