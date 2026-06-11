@@ -2,7 +2,12 @@
 
 # Hi, I'm Elena 👋
 
-**I teach machines to grow diamonds, read research papers, and match orders in microseconds.**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=750&lines=I+teach+machines+to+grow+diamonds.;I+teach+machines+to+read+research+papers.;I+teach+machines+to+match+orders+in+microseconds."
+    alt="Typing SVG"
+  />
+</p>
 
 *Machine Learning Engineer · C++ Systems Developer · MSc Computational Science*
 
