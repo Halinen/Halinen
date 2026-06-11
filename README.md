@@ -59,7 +59,7 @@ MLOps & Infra   Docker · FastAPI · AWS (EC2/S3/CloudWatch) · CI/CD · GitHub 
 
 When I'm not staring at loss curves or flame graphs, I'm probably exploring Toronto's coffee scene, reading about market microstructure, or wondering why my best debugging ideas arrive in the shower.
 
-**Currently:** open to ML Engineering / MLOps / C++ systems roles in Canada 🇨🇦 — let's talk!
+**Currently:** open to ML Engineering / Quant Dev / C++ roles in Canada 🇨🇦 — let's talk!
 
 <div align="center">
 
